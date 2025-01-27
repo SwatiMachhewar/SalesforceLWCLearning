@@ -1,0 +1,25 @@
+/* Element Selector */
+/* div{
+    color: rgb(30, 0, 255);
+} */
+
+/* ID Selector */
+/* #abc{
+    color: brown;
+}
+*/
+
+#xyz{
+    color: rgb(131, 232, 8);
+    font-size: 100px;
+}
+
+/* Element Selector */ 
+.abc{
+    color: brown;
+}
+
+.xyz{
+    color: rgb(131, 232, 8);
+    font-size: 100px;
+}
