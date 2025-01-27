@@ -50,7 +50,7 @@ let MyName = "MY NaME is SWATi"
 console.log(MyName.toUpperCase()) //O/P: MY NAME IS SWATI
 
 // 7. trim():
-// We heavily use this method, when are doing some search related operation where you have input 
+// We heavily use this method, when we are doing some search related operation where you have input 
 // field and users start typing something gibberish(Meaningless)
 // So for example, let's say, user added below value "        Salesforce LWC            " 
 // in searchText variable. So in this case it may create an issue in code. So we have to always 
@@ -61,4 +61,4 @@ let searchText = "        Salesforce LWC            "
 console.log(searchText) //O/P: "        Salesforce LWC            "
 console.log(searchText.trim()) //O/P: Salesforce LWC
 
-// So these are the 7 types required in LWC.
+// So these are the 7 types of string methods required in LWC.
