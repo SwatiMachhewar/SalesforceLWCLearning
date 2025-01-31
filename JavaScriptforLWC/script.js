@@ -1,3 +1,8 @@
+// Keywords in JavaScript:
+// 1. var Keyword
+// 2. let Keyword
+// 3. const Keyword
+
 // var Keyword:
 // var course = "Zero to Hero in LWC...."
 // console.log(course)
