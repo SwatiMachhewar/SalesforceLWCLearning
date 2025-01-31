@@ -1,5 +1,6 @@
 // Destructuring ==>
-// Array Destructuring:
+
+// 1. Array Destructuring:
 let arr = ["Amazon", "Salesforce"]
 
 // let company1 = arr[0]
@@ -16,7 +17,7 @@ console.log(company1)
 console.log(company2)
 
 
-//Object Destructuring:
+// 2. Object Destructuring:
 let options = {
     title: "Zero to Hero",
     age: 23,

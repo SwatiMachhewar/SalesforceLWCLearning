@@ -1,4 +1,12 @@
 // Array Methods:
+// 1. map()
+// 2. every()
+// 3. filter()
+// 4. some()
+// 5. sort()
+// 6. reduce()
+// 7. forEach()
+
 let arr = [2,3,5,7,9,10]
 
 // Below is the Syntax which is similar for all methods:
