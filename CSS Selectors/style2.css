@@ -4,17 +4,17 @@
 } */
 
 /* ID Selector */
-/* #abc{
-    color: brown;
+#abc{
+    color: rgb(50, 204, 83);
 }
-*/
 
-#xyz{
+
+/* #xyz{
     color: rgb(131, 232, 8);
     font-size: 100px;
-}
+} */
 
-/* Element Selector */ 
+/* Class Selector */ 
 .abc{
     color: brown;
 }
